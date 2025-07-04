@@ -14,6 +14,8 @@ I'm a passionate and curious software developer currently studying at SAIT, wher
 ### 📌 Featured Projects
 Check out my pinned repositories below to see the projects I'm most proud of—from full-stack apps to testing frameworks!
 
+![Chinaza's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinaza98&show_icons=true&theme=transparent)
+
 I'm always open to new opportunities to learn, build, and collaborate. Let's connect and build something great together!
 
 
